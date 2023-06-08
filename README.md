@@ -8,4 +8,4 @@ Cell with Toggle and many More
 I am thinking to made an Module to easily implement it in any app
 
 App Demo:
-![](https://github.com/tableView-CustomCells/CustomCells.gif)
+![Custom-Cell](https://github.com/panchalrajan/tableView-CustomCells/blob/main/CustomCells.gif)
